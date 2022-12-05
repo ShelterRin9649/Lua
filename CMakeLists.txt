@@ -48,12 +48,11 @@ set(SRC_FILES
     ltable.c
     ltable.h
     ltablib.c
-    ltests.c
-    ltests.h
     ltm.c
     ltm.h
     lua.c
     lua.h
+    lua.hpp
     luaconf.h
     lualib.h
     lundump.c
